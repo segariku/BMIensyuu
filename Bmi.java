@@ -30,7 +30,7 @@ public class Bmi {
             } else if (bmi < 40) {
                 System.out.println("肥満3度です。改善してください。");
             } else {
-                System.out.println("肥満4度です。改善してください。");
+                System.out.println("肥満4度です。改善しなさい。");
             }
 
         }
